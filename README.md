@@ -34,9 +34,9 @@ The approach analyzes pairs of code snippets and determines whether they represe
 
 ## 📈 Results
 
-![ROC Curve](results/roc_curve.jpeg)  
+![ROC Curve](results/roc_curve.jpeg)
 
----
+
 
 ## 🧩 Applications
 
@@ -51,9 +51,10 @@ The approach analyzes pairs of code snippets and determines whether they represe
 Python · PyTorch · Transformers (CodeBERT) · NumPy · Pandas · Scikit-learn  
 
 
+
 ## 📂 Structure
 
 - `src/` — implementation  
-- `results/` — outputs  
+- `results/` — evaluation outputs  
 - `docs/` — documentation  
 
