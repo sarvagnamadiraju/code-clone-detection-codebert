@@ -46,7 +46,7 @@ The approach analyzes pairs of code snippets and determines whether they represe
 
 
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 Python · PyTorch · Transformers (CodeBERT) · NumPy · Pandas · Scikit-learn  
 
